@@ -152,6 +152,6 @@ Web可查看的详细API文档
 #### 5.Markdown Here
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/MarkDown.png)
 
-![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Momentum_info.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/MarkDown_info.png)
 
 >简单来说，这款插件可以让你在通常的富文本编辑器上使用Markdown语言。它原本是为了在Gmail和Thunderbird上写邮件时用的，但后来拓展倒Yahoo和Hotmail等其他邮箱的富文本编辑器上。据说，开发者Adam总需要把Github上用markdown写成的文章复制到邮件里发给别人，邮件编辑器理解不了markdown语法，其结果和心情可想而知。目前该插件支持火狐，Chrome，Safari和Opera浏览器等。
