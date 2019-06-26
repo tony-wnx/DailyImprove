@@ -1,14 +1,14 @@
 ## 通用插件
 
 #### 1.万物基于--谷歌浏览器访问助手
-![da5807c5c1e69ff08672e0968e446590.png](en-resource://database/426:1)
-![a8558a5b77a7aa42e369d3875a828611.png](en-resource://database/420:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper_info.png)
 
 >最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问google商店，google搜索，gmail邮箱，google+等谷歌服务。
 
 #### 2.Tampermonkey油猴--强无敌，不解释
-![d1669cb5b6cea397cb4c79b757a16be1.png](en-resource://database/425:1)
-![a3da66dc8857cbc7d3b9a8c58530623b.png](en-resource://database/418:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Tampermonkey.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Tampermonkey_info.png)
 
 >世界上最受欢迎的用户脚本管理员。
 Tampermonkey是最受欢迎的用户脚本管理员，拥有超过1000万用户。 Tampermonkey用于运行所谓的userscripts（有时也称为Greasemonkey脚本）。用户脚本是一些小型计算机程序，例如将下载按钮添加到YouTube页面，清理Facebook时间线或帮助玩在线游戏。 
@@ -19,8 +19,8 @@ Tampermonkey是最受欢迎的用户脚本管理员，拥有超过1000万用户�
 - 备份和恢复zip文件和/或云端存储（Google Drive，Dropbox，OneDrive）
 
 #### 3.ABP--强大的广告拦截器
-![f5db24d8917d943865515c4fbe9c59c2.png](en-resource://database/428:1)
-![63e0407a3527eaae10331a590c2aded3.png](en-resource://database/414:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Adblock.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Adblock_info.png)
 
 >Adblock Plus拥有超过5亿的下载量，是世界上最受欢迎的广告拦截器之一。
 Adblock Plus是一款易于使用的广告拦截器，可阻止视频和社交媒体广告。
@@ -31,8 +31,8 @@ Adblock Plus支持可接受广告（AA）计划。它们是非侵入式广告，
 Adblock Plus也适用于Firefox和Edge。
 
 #### 4.OneTab--贤内助，优秀的内存优化大师
-![6b516528e36a2a44233832ec6d8c45f4.png](en-resource://database/416:1)
-![ed4e35fa22059f4033502329c415fb04.png](en-resource://database/427:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/OneTab.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/OneTab_info.png)
 
 >帮你节省高达95％的内存并减少标签混乱。
 每当您发现自己有太多标签时，请单击OneTab图标将所有标签转换为列表。当您需要再次访问选项卡时，可以单独还原或一次性还原。
@@ -43,16 +43,16 @@ Adblock Plus也适用于Firefox和Edge。
 根据选项卡中运行的脚本数量，将它们移动到OneTab还可以通过减少CPU负载来加速计算机。我们还有报道说这也有助于您的计算机更快地从睡眠中恢复。
 
 #### 5.Google翻译--贴身翻译官
-![b9b3c31fdd3f7e97035349ff0a254fda.png](en-resource://database/422:1)
-![b8354be743a39e1b7c6de23bb4a91339.png](en-resource://database/421:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleTrans.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleTrans_info.png)
 
 >在浏览网页时轻松查看翻译。由谷歌翻译团队提供。
 突出显示或右键单击文本部分，然后单击旁边的“翻译”图标将其翻译为您的语言。或者，要翻译您正在访问的整个页面，请单击浏览器工具栏上的翻译图标。
 现在，您可以突出显示或右键单击文本并进行翻译，然后翻译整个页面。您还可以更改扩展选项，以便在每次突出显示文本时自动显示翻译。
 
 #### 6.Momentum--私人订制化妆师
-![521336f4cb19c6e63f0aeb98b371b3e1.png](en-resource://database/412:1)
-![240e3b1e54502f21d66f99d718476a83.png](en-resource://database/407:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Momentum.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Momentum_info.png)
 
 >将新标签页替换为具有待办事项，天气和灵感的个人仪表板。
 新标签页面让您感到平静，并激发您提高工作效率。获取每日照片和报价的灵感，设置每日焦点，并跟踪您的待办事项。在每个新标签上提醒您关注当天的焦点，消除分心并挫败拖延。加入超过300万用户，并获得灵感，创造您想要的生活。 
@@ -67,8 +67,8 @@ Adblock Plus也适用于Firefox和Edge。
 •感觉良好并完成工作！
 
 #### 7.Evernote Web Clipper笔记--智能小帮手
-![48fa147f58486a3424f41b4f3e4d09b9.png](en-resource://database/411:1)
-![2f221e7934b9df140f9eccaaf3f43839.png](en-resource://database/409:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Evernode.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Evernode_info.png)
 
 >搭配Evernote使用，使用Evernote扩展程序将您在网络上看到的内容保存到您的Evernote帐户中。
 Evernote Web Clipper可帮助您将在Web上找到的有趣内容保存到Evernote帐户中。
@@ -78,15 +78,15 @@ Evernote Web Clipper可帮助您将在Web上找到的有趣内容保存到Everno
 ## 开发相关
 
 #### 1.掘金--知性小秘书
-![be390f7f199f941212c59e6599dd5e3b.png](en-resource://database/423:1)
-![18351206f9de6cbb93ffd99a4e8a5d90.png](en-resource://database/406:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/juejin.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/juejin_info.png)
 
 >为程序员、设计师、产品经理每日发现优质内容。
 在新标签页展示聚合内容，包含前端、Android、iOS、后端、产品、设计六大频道，每个频道内都有一到多个内容源。
 
 #### 2.FeHelper--前端开发助手
-![04d8d1d6b52c2c0584c6e20efbce93bd.png](en-resource://database/405:1)
-![7068cbd8507727b78136294be7613db4.png](en-resource://database/417:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper_info.png)
 
 >FE助手：JSON格式化、JSON比对、二维码生成与解码、信息编解码、代码压缩&美化、页面取色、Markdown与HTML、网页截屏、编码设置、正则、时间转换、网页性能检测、Ajax调试、密码生成器、便签笔记、chrome插件下载等
 前端实用工具集，谁用谁知道！
@@ -116,8 +116,8 @@ Evernote Web Clipper可帮助您将在Web上找到的有趣内容保存到Everno
 - 多维小工具集（进制转换、RGBA/HEX颜色转换等）
 
 #### 3.Clear Cache--一键清缓存
-![6a47083cddcd8df16cf5526b4e97f345.png](en-resource://database/415:1)
-![2a21be08af828b3e38d0656bae44649b.png](en-resource://database/408:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Cache.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Cache_info.png)
 
 >只需单击一下按钮即可清除缓存和浏览数据。
 使用此扩展程序快速清除缓存，无需任何确认对话框，弹出窗口或其他烦恼。
@@ -125,8 +125,8 @@ Evernote Web Clipper可帮助您将在Web上找到的有趣内容保存到Everno
 Cookie可以全局删除，仅适用于某些域或除某些域以外的所有域。
 
 #### 4.Postman--程序猿都知道，不解释
-![c0122f37b43c477801fcbfc876fb07f3.png](en-resource://database/424:1)
-![a47419d8c16c43b0cb095637dd9d6713.png](en-resource://database/419:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/PostMan.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/PostMan_info.png)
 
 >Postman使API开发更快，更容易，更好。这个免费的应用程序被全球超过350万的开发人员和30,000家公司使用。Postman的设计考虑了开发人员，并提供了各种功能和选项。
 功能包括：
@@ -139,7 +139,7 @@ Web可查看的详细API文档
 模拟服务器，以支持分裂堆栈开发
 
 #### 5.Markdown Here
-![55438ad112a8f90cba5b6d3a73b04177.png](en-resource://database/413:1)
-![46b418bcc03ccbe8ac5658fe2776794c.png](en-resource://database/410:1)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/MarkDown.png)
+![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/Momentum_info.png)
 
 >简单来说，这款插件可以让你在通常的富文本编辑器上使用Markdown语言。它原本是为了在Gmail和Thunderbird上写邮件时用的，但后来拓展倒Yahoo和Hotmail等其他邮箱的富文本编辑器上。据说，开发者Adam总需要把Github上用markdown写成的文章复制到邮件里发给别人，邮件编辑器理解不了markdown语法，其结果和心情可想而知。目前该插件支持火狐，Chrome，Safari和Opera浏览器等。
