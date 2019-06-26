@@ -12,6 +12,7 @@
 无脑式安装，一路next到底，到最后点击Finish完成安装
 
 ### 3.激活（重点来了）
+
 * 首先下载激活插件：JetbrainsCrack-release-enc.jar
 百度网盘下载地址：https://pan.baidu.com/s/1v0tn0KHuG6FNShauM2UnYA
 提取码：6wys
@@ -59,6 +60,12 @@ idea.exe.vmoptions文件中的内容：
 
 * 打开IDEA，选择激活码激活，将最开始下载下来的文件：**IDEA激活码.txt** 中的内容全部拷贝到输入框中 ，点击ok完成激活！
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/input_verifyCode.png)
+
 ### 4.激活完成
+
 激活后会看到到期时间变成2100年（80年够不够老哥，手动滑稽）
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/active_status.png)
+
+### 5.其他激活方法
+
+如果上述方法激活失败的话，可能是由于版本的原因，你可以到按1.中百度网盘的地址去下载和我相同的版本，或者参考其他激活方法：https://blog.csdn.net/zhw0596/article/details/81394870
