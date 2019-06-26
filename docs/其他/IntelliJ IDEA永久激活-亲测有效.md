@@ -4,7 +4,9 @@
 ### 1.IDEA 下载：
 
 官网下载地址：https://www.jetbrains.com/idea/download/
+
 百度网盘下载地址：https://pan.baidu.com/s/1da9F0jj_i3TdJmm1qYZmHQ  
+
 提取码：1ag6
 
 ### 2.IDEA安装
@@ -14,9 +16,12 @@
 ### 3.激活（重点来了）
 
 * 首先下载激活插件：JetbrainsCrack-release-enc.jar
-百度网盘下载地址：https://pan.baidu.com/s/1v0tn0KHuG6FNShauM2UnYA
-提取码：6wys
-下载内容包含两个文件：JetbrainsCrack-release-enc.jar、IDEA激活码.txt
+
+&nbsp;&nbsp;百度网盘下载地址：https://pan.baidu.com/s/1v0tn0KHuG6FNShauM2UnYA
+
+&nbsp;&nbsp;提取码：6wys
+
+&nbsp;&nbsp;下载内容包含两个文件：JetbrainsCrack-release-enc.jar、IDEA激活码.txt
 * 讲下载下来的jar包拷贝到idea安装目录的bin路径下
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/copy_to_dir.png)
 * 在IDEA的安装目录的bin路径下找到 idea.exe.vmoptions 和 idea64.exe.vmoptions 这两个文件，用记事本打开，在这两个文件的最后各自追加以下内容：
