@@ -2,6 +2,7 @@
 
 #### 1.万物基于--谷歌浏览器访问助手
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper.png)
+
 ![image](https://github.com/tony-wnx/DailyImprove/blob/master/docs/images/GoogleHelper_info.png)
 
 >最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问google商店，google搜索，gmail邮箱，google+等谷歌服务。
