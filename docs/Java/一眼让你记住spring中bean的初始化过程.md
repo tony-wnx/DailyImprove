@@ -1,13 +1,16 @@
 >今天被一个小朋友问起了Spring中Bean的生命周期过程，结果场面一度十分尴尬，仅管我给他讲出了Bean的生命周期过程，但是讲的不是特别详细，也不够通俗易懂，看着他一脸懵逼的样子，于心不忍，于是决定一定要想出一个通俗易懂的例子让他一目了然，并且让他这辈子也忘不掉！
 
 **流程图任你出，记得住算我输**
-![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Java/img/flowChart.png)
+
+![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/docs/Java/img/flowChart.png)
+
 讲完了，就上边一张图，你记住了吗？不管你记没记住，反正我是记不住。那怎么办，来个生活中的实际案例吧。
 
 **通俗形象理解**
+
 >我们结合上面那张图和一台新款保时捷911跑车从生产到发布的过程来讲一讲Spring中的Bean的实例化过程。
 
-![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Java/img/Porsche.png)
+![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/docs/Java/img/Porsche.png)
 
 * 首先，你说你想要一台最新款的保时捷911跑车（就问你这车骚气不），怎么办呢？买一辆！但是如果连造这辆车的工厂都没有，你从哪里去买？所以，首先要有一个保时捷汽车制造工厂来生产汽车，这个工厂负责处理保时捷名下各种型号各种款式的汽车的订单等来进行汽车的设计和制造。**对应图中的BeanFactoryPostProcessor（Bean工厂后处理器）**
 
