@@ -102,12 +102,23 @@ def test():
         CircleStory.baby_id == baby_id).order_by(
         CircleClasscircle.create_date.desc())
 
+    # sql4 = CircleClasscircle.query(CircleStory.create_date).join(
+    #     CircleStory, CircleClasscircle.id == CircleStory.circle_id).filter(
+    #     CircleStory.baby_id == baby_id)
+
+    sql4 = db.session.query(CircleClasscircle,
+          CircleStory.create_date.label('story_date')).join(CircleStory,
+          CircleClasscircle.id == CircleStory.circle_id).filter(
+          CircleStory.baby_id == baby_id).order_by(
+          CircleClasscircle.create_date.desc())
 
     print(sql)
     print("===================")
     print(sql2)
     print("===================")
     print(sql3)
+    print("===================")
+    print(sql4)
 ```
 **打印sql语句注意点：**
 不要在检索语句的最后添加.all()或.first()等类似的方法，否则打印SQL语句失败。
@@ -119,7 +130,7 @@ def test():
  
 // 打印结果：[<CircleClasscircle c31731546399969124>] ，打印的是查询结果
 ```
-**sql1、sql2、sql3的打印结果**
+**sql1、sql2、sql3、sql4的打印结果**
 
 ```
 // 1.打印出的sql1的结果： 检索结果是CircleClasscircle表中的所有字段
@@ -155,5 +166,19 @@ WHERE
 	story.baby_id = % ( baby_id_1 ) s 
 ORDER BY
 	classcircle.create_date DESC
-	
+
+// 4.打印出的sql4的结果：检索结果是CircleClasscircle表中的所有字段和CircleStory表中指定的字段
+// 不能使用注释掉的sql4的方法查询一个表的所有字段和另一个表的指定字段
+
+SELECT
+	classcircle.id AS classcircle_id,
+	... ...
+	story.create_date AS story_date 
+FROM
+	classcircle
+	INNER JOIN circle_story ON classcircle.id = story.circle_id 
+WHERE
+	story.baby_id = % ( baby_id_1 ) s 
+ORDER BY
+	classcircle.create_date DESC
 ```
