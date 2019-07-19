@@ -51,7 +51,7 @@ XAka34A2rVRYJ4XBIU35UZMUEEF64CMMIYZCK2FZZUQNODEKUHGJLFMSLIQMQUCUBXRENLK6NZL37JXP
 ```
 
 ### 4.激活完成
-激活后会看到到期时间变成2100年（80年够不够老哥，手动滑稽）
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190719131618411.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dueF81MjA1NQ==,size_16,color_FFFFFF,t_70)
 如果上述方法激活失败的话，可能是由于版本的原因，你可以到按1.中百度网盘的地址去下载和我相同的版本
 
