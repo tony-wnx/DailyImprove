@@ -12,12 +12,14 @@ Lombok官方地址: https://projectlombok.org/
 #### Lombok的使用
 
 * **安装插件**
+
 打开 IDEA 的 Settings 面板，并选择 Plugins 选项，然后点击 “Search in repositories”，在输入框输入”Lombok”，找到Lombok，点击安装，然后安装提示重启 IDEA，安装完成。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190730124027834.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dueF81MjA1NQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2019073012415524.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dueF81MjA1NQ==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190730124050636.png)
 
 * **引入依赖**
+
 在 pom 文件里面添加 依赖：
 
 ```
@@ -30,6 +32,7 @@ Lombok官方地址: https://projectlombok.org/
 ```
 
 * **现在，你就就可以在项目中使用Lombok了**
+
 直接在实体类上引入相关的注解就行：
 @Data
 注解在 类 上；提供类所有属性的 get 和 set 方法，此外还提供了equals、canEqual、hashCode、toString 方法。
