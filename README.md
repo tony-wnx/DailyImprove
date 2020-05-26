@@ -13,7 +13,7 @@
 * JDK 1.8有哪些新特性
 * Fail-fast机制解析
 
-![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/python.png)&nbsp;&nbsp;[Python](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python)
+![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/highConcurrency.png)&nbsp;&nbsp;[高并发](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Concurrency)
 
 ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/distributed.png)&nbsp;&nbsp;[分布式](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Distributed)
 
@@ -22,6 +22,8 @@
 ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/redis.png)&nbsp;&nbsp;[Redis缓存](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Redis)
 
 ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/JVM.png)&nbsp;&nbsp;[虚拟机](https://github.com/tony-wnx/DailyImprove/tree/master/docs/JVM)
+
+![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/python.png)&nbsp;&nbsp;[Python](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python)
 
 ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/network.png)&nbsp;&nbsp;[网络通信](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Network)
 
