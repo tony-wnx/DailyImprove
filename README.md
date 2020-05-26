@@ -30,17 +30,75 @@
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/highConcurrency.png)&nbsp;&nbsp;[高并发](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Concurrency)
 
-* 
+### 消息队列
+
+* 为什么使用消息队列
+
+### 缓存
+
+* 缓存雪崩、缓存穿透、缓存击穿问题的原因和解决方案
+* 缓存双写一致性问题的解决办法
+* Redis并发竞争和解决办法
+* Redis缓存高可用实施方案
+
+### Mysql
+
+* 分库分表
+* 高可用实施方案
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/distributed.png)&nbsp;&nbsp;[分布式](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Distributed)
 
+### Dubbo
+
+* 实现原理
+
+### Zookeeper
+
+* ZAB协议
+
+### RabbitMq
+
 * 
+
+### 分布式锁
+
+* 分布式锁的实现方式
+
+### 分布式事务
+
+* 分布式事务解决方案
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/db.png)&nbsp;&nbsp;[数据库](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Mysql)
 
+### 索引
+
+* 
+
+### 分库分表
+
+* 垂直拆分
+* 水平拆分
+
+### 优化
+
+* 
+
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/redis.png)&nbsp;&nbsp;[Redis缓存](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Redis)
 
+* Redis中的数据类型和使用场景
+* Redis线程模型
+* Redis过期策略
+* Redis持久化方式的优缺点
+* Redis主从、哨兵、集群的搭建
+
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/JVM.png)&nbsp;&nbsp;[虚拟机](https://github.com/tony-wnx/DailyImprove/tree/master/docs/JVM)
+
+* JDK1.8和1.7对比，虚拟机做了哪些优化
+* JVM运行时数据区空间划分
+* 垃圾回收算法
+* 垃圾回收器详解
+* 内存分配和回收策略
+* 结合实际项目，说说如何进行JVM问题排查和调优
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/python.png)&nbsp;&nbsp;[Python](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python)
 
