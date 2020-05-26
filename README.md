@@ -2,7 +2,7 @@
 
 本项目涵盖Java基础、高并发、分布式、高可用、微服务等领域的知识。项目的开展基于对平时开发过程中所涉及到的技术进行归纳整理，方便以后查阅回顾。
 
-## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/java.png)&nbsp;&nbsp;Java基础
+## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/java.png)&nbsp;&nbsp;&nbsp;[Java基础](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Java)
 
 ### 集合框架
 
