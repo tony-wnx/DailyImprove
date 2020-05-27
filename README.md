@@ -122,7 +122,7 @@
 
 * &nbsp;[Java面试复习内容整理](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Interview/Java面试复习.md)
 
-* &nbsp;&nbsp;[2020-5 某游戏公司面试](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Interview/2020-5_某游戏公司面试.md)
+* &nbsp;[2020-5 某游戏公司面试](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Interview/2020-5_某游戏公司面试.md)
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/qita.png)&nbsp;&nbsp;[其他](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other)
 
