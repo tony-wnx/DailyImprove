@@ -27,7 +27,7 @@
 * 说说线程池的工作原理
 * 线程池拒绝策略有哪些
 * 阻塞队列有哪些？为什么不推荐使用Executor创建线程池？
-* ![juc]((https://github.com/tony-wnx/DailyImprove/blob/master/docs/Interview/img/juc.png)
+*  ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/docs/Interview/img/Java面试复习.png)
 
 ### IO/NIO
 
