@@ -108,7 +108,7 @@
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/python.png)&nbsp;&nbsp;[Python](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python)
 
 * &nbsp;[Sqlacodegen反向生成models的使用流程](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python/Sqlacodegen反向生成models的使用流程.md)
-*  [SQLAlchemy中Model.query和session.query(Model)的区别](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python/SQLAlchemy中Model.query和session.query(Model)的区别.md)
+* &nbsp;[SQLAlchemy中Model.query和session.query(Model)的区别](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Python/SQLAlchemy中Model.query和session.query(Model)的区别.md)
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/network.png)&nbsp;&nbsp;[网络通信](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Network)
 
