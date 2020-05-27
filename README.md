@@ -1,6 +1,7 @@
 # DailyImprove 积跬步，至千里！
 
 本项目涵盖Java基础、高并发、分布式、高可用、微服务等领域的知识。项目的开展基于对平时开发过程中所涉及到的技术进行归纳整理，方便以后查阅回顾。
+
 此外，本项目对面试过程中经常被问到的一些问题也进行了整理，还有一些真实的面试经历供各位参考，希望能给大家带来一些帮助，最终斩获心仪的offer！
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/java.png)&nbsp;&nbsp;&nbsp;[Java基础](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Java)
