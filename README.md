@@ -115,8 +115,7 @@
 
 ## ![在这里插入图片描述](https://github.com/tony-wnx/DailyImprove/blob/master/img/qita.png)&nbsp;&nbsp;[其他](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other)
 
-* &nbsp;&nbsp;[IntelliJ IDEA永久激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/IntelliJ IDEA永久激活-亲测有效.md)
-* &nbsp;&nbsp;[X-Mind 8激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/X-Mind 8激活.md)
-* &nbsp;&nbsp;[常用开发软件永久激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/常用开发软件永久激活--牛逼，不解释！！！.md)
-* &nbsp;&nbsp;[盘点那些堪称‘神器’的Chrome插件](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/盘点那些堪称'神器'的Chrome插件.md)
+* &nbsp;&nbsp;[IntelliJ IDEA永久激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/IntelliJ-IDEA永久激活.md)
+* &nbsp;&nbsp;[X-Mind 8激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/X-Mind-8激活.md)
+* &nbsp;&nbsp;[盘点那些堪称‘神器’的Chrome插件](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/盘点那些堪称神器的Chrome插件.md)
 
