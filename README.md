@@ -131,6 +131,7 @@
 * &nbsp;&nbsp;[IntelliJ IDEA永久激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/IntelliJ-IDEA永久激活.md)
 * &nbsp;&nbsp;[X-Mind 8激活](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/X-Mind-8激活.md)
 * &nbsp;&nbsp;[盘点那些堪称‘神器’的Chrome插件](https://github.com/tony-wnx/DailyImprove/tree/master/docs/Other/盘点那些堪称神器的Chrome插件.md)
+*  常用软件配置
 
 
 
